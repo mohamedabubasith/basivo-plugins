@@ -1,0 +1,33 @@
+{
+  "name": "basivo",
+  "owner": {
+    "name": "Basivo"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Basivo (basivo.in)"
+  },
+  "plugins": [
+    {
+      "name": "basivo-qa",
+      "source": {
+        "source": "github",
+        "repo": "mohamedabubasith/basivo-qa"
+      },
+      "description": "Test your web app in a real browser and hand Claude a verdict it can fix from, in the same session.",
+      "category": "testing",
+      "homepage": "https://github.com/mohamedabubasith/basivo-qa",
+      "keywords": ["qa", "testing", "playwright", "browser", "agent"]
+    },
+    {
+      "name": "basivo-operator",
+      "source": {
+        "source": "github",
+        "repo": "mohamedabubasith/basivo-operator"
+      },
+      "description": "Do plain-language tasks on any website inside your own logged-in browser. Draft-first, human-in-the-loop before anything irreversible.",
+      "category": "automation",
+      "homepage": "https://github.com/mohamedabubasith/basivo-operator",
+      "keywords": ["browser-automation", "publishing", "logged-in-session", "playwright", "human-in-the-loop"]
+    }
+  ]
+}
