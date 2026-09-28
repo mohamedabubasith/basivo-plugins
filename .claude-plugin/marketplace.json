@@ -16,7 +16,13 @@
       "description": "Test your web app in a real browser and hand Claude a verdict it can fix from, in the same session.",
       "category": "testing",
       "homepage": "https://github.com/mohamedabubasith/basivo-qa",
-      "keywords": ["qa", "testing", "playwright", "browser", "agent"]
+      "keywords": [
+        "qa",
+        "testing",
+        "playwright",
+        "browser",
+        "agent"
+      ]
     },
     {
       "name": "basivo-operator",
@@ -27,7 +33,30 @@
       "description": "Do plain-language tasks on any website inside your own logged-in browser. Draft-first, human-in-the-loop before anything irreversible.",
       "category": "automation",
       "homepage": "https://github.com/mohamedabubasith/basivo-operator",
-      "keywords": ["browser-automation", "publishing", "logged-in-session", "playwright", "human-in-the-loop"]
+      "keywords": [
+        "browser-automation",
+        "publishing",
+        "logged-in-session",
+        "playwright",
+        "human-in-the-loop"
+      ]
+    },
+    {
+      "name": "basivo-journal",
+      "source": {
+        "source": "github",
+        "repo": "mohamedabubasith/basivo-journal"
+      },
+      "description": "Personal Claude Code activity journal stored in your own n8n: hours, projects, strengths, what you're learning, and a weekly digest.",
+      "category": "productivity",
+      "homepage": "https://github.com/mohamedabubasith/basivo-journal",
+      "keywords": [
+        "journal",
+        "activity",
+        "n8n",
+        "productivity",
+        "learning"
+      ]
     }
   ]
 }

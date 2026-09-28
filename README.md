@@ -6,6 +6,7 @@ One marketplace for all Basivo plugins.
 |---|---|
 | [basivo-qa](https://github.com/mohamedabubasith/basivo-qa) | Tests your web app in a real browser and hands Claude a verdict it can fix from, in the same session. |
 | [basivo-operator](https://github.com/mohamedabubasith/basivo-operator) | Does plain-language tasks on any website inside your own logged-in browser. Draft-first, asks before anything irreversible. |
+| [basivo-journal](https://github.com/mohamedabubasith/basivo-journal) | Tracks your Claude Code activity in your own n8n: hours, projects, strengths, what you're learning, weekly digest. |
 
 ## Install
 
@@ -20,6 +21,7 @@ Then install what you need:
 ```
 claude plugin install basivo-qa@basivo
 claude plugin install basivo-operator@basivo
+claude plugin install basivo-journal@basivo
 ```
 
 Inside a Claude Code session the same commands work as `/plugin marketplace add …` and `/plugin install …`.
