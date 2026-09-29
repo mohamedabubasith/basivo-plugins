@@ -47,15 +47,32 @@
         "source": "github",
         "repo": "mohamedabubasith/basivo-journal"
       },
-      "description": "Personal Claude Code activity journal stored in your own n8n: hours, projects, strengths, what you're learning, and a weekly digest.",
+      "description": "Your Claude Code memory and activity journal: every session saved live to your private GitHub repo (stats + chat history, secrets masked), memory search tools, an offline report and a Vercel dashboard. Works on any OS.",
       "category": "productivity",
       "homepage": "https://github.com/mohamedabubasith/basivo-journal",
       "keywords": [
         "journal",
+        "memory",
         "activity",
-        "n8n",
-        "productivity",
-        "learning"
+        "dashboard",
+        "productivity"
+      ]
+    },
+    {
+      "name": "basivo-memory",
+      "source": {
+        "source": "github",
+        "repo": "mohamedabubasith/basivo-memory"
+      },
+      "description": "Shared memory across related repos: put a spec/rules repo and a code repo in one space, and Claude in either sees the pinned rules, decisions, docs and past chats of both.",
+      "category": "productivity",
+      "homepage": "https://github.com/mohamedabubasith/basivo-memory",
+      "keywords": [
+        "memory",
+        "context",
+        "multi-repo",
+        "rules",
+        "decisions"
       ]
     }
   ]
