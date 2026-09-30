@@ -74,6 +74,23 @@
         "rules",
         "decisions"
       ]
+    },
+    {
+      "name": "basivo-studio",
+      "source": {
+        "source": "github",
+        "repo": "mohamedabubasith/basivo-studio"
+      },
+      "description": "Logos, icons, favicons, covers and social images designed in SVG/HTML and rendered to exact-size PNGs on your machine. Text always spelled right, nothing AI-looking.",
+      "category": "design",
+      "homepage": "https://github.com/mohamedabubasith/basivo-studio",
+      "keywords": [
+        "logo",
+        "favicon",
+        "icons",
+        "og-image",
+        "design"
+      ]
     }
   ]
 }

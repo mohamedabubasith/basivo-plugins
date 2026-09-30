@@ -8,6 +8,7 @@ One marketplace for all Basivo plugins.
 | [basivo-operator](https://github.com/mohamedabubasith/basivo-operator) | Does plain-language tasks on any website inside your own logged-in browser. Draft-first, asks before anything irreversible. |
 | [basivo-journal](https://github.com/mohamedabubasith/basivo-journal) | Your memory and activity journal: every session saved to your private repo, memory search, offline report and dashboard. |
 | [basivo-memory](https://github.com/mohamedabubasith/basivo-memory) | Shared memory across related repos: a spec/rules repo and a code repo in one space. |
+| [basivo-studio](https://github.com/mohamedabubasith/basivo-studio) | Logos, icons, favicons, covers and social images, designed in SVG/HTML and rendered to exact-size PNGs. |
 
 ## Install
 
@@ -24,6 +25,7 @@ claude plugin install basivo-qa@basivo
 claude plugin install basivo-operator@basivo
 claude plugin install basivo-journal@basivo
 claude plugin install basivo-memory@basivo
+claude plugin install basivo-studio@basivo
 ```
 
 Inside a Claude Code session the same commands work as `/plugin marketplace add …` and `/plugin install …`.
