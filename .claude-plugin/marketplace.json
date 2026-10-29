@@ -91,6 +91,42 @@
         "og-image",
         "design"
       ]
+    },
+    {
+      "name": "basivo-crew",
+      "source": {
+        "source": "github",
+        "repo": "mohamedabubasith/basivo-crew"
+      },
+      "description": "Turn issues into reviewed pull requests. A crew of agents — triage, architect, developer, tester, reviewer, security — that runs in your CI on every trigger, in two tiers.",
+      "category": "automation",
+      "homepage": "https://github.com/mohamedabubasith/basivo-crew",
+      "keywords": [
+        "ci",
+        "code-review",
+        "github-actions",
+        "gitlab",
+        "agents",
+        "automation"
+      ]
+    },
+    {
+      "name": "basivo-world",
+      "source": {
+        "source": "github",
+        "repo": "mohamedabubasith/basivo-world"
+      },
+      "description": "See your Claude Code agents live: who spawned whom, at any depth, what each is doing and what it costs — in a pane, and as a pixel-art world in your browser.",
+      "category": "productivity",
+      "homepage": "https://github.com/mohamedabubasith/basivo-world",
+      "keywords": [
+        "agents",
+        "subagents",
+        "visualization",
+        "observability",
+        "pixel-art",
+        "mod"
+      ]
     }
   ]
 }
