@@ -116,7 +116,7 @@
         "source": "github",
         "repo": "mohamedabubasith/basivo-world"
       },
-      "description": "See your Claude Code agents live: who spawned whom, at any depth, what each is doing and what it costs — in a pane, and as a pixel-art world in your browser.",
+      "description": "See your Claude Code agents live: who spawned whom, at any depth, what each is doing and what it costs — in a pane, and as a 3D office in your browser.",
       "category": "productivity",
       "homepage": "https://github.com/mohamedabubasith/basivo-world",
       "keywords": [
