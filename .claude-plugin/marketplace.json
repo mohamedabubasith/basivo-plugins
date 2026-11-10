@@ -98,7 +98,7 @@
         "source": "github",
         "repo": "mohamedabubasith/basivo-crew"
       },
-      "description": "Turn issues into reviewed pull requests. A crew of agents — triage, architect, developer, tester, reviewer, security — that runs in your CI on every trigger, in two tiers.",
+      "description": "Turn issues into reviewed pull requests. A crew of agents \u2014 triage, architect, developer, tester, reviewer, security \u2014 that runs in your CI on every trigger, in two tiers.",
       "category": "automation",
       "homepage": "https://github.com/mohamedabubasith/basivo-crew",
       "keywords": [
@@ -116,7 +116,7 @@
         "source": "github",
         "repo": "mohamedabubasith/basivo-world"
       },
-      "description": "See your Claude Code agents live: who spawned whom, at any depth, what each is doing and what it costs — in a pane, and as a 3D office in your browser.",
+      "description": "See your Claude Code agents live: who spawned whom, at any depth, what each is doing and what it costs \u2014 in a pane, and as a 3D office in your browser.",
       "category": "productivity",
       "homepage": "https://github.com/mohamedabubasith/basivo-world",
       "keywords": [
@@ -126,6 +126,24 @@
         "observability",
         "pixel-art",
         "mod"
+      ]
+    },
+    {
+      "name": "basivo-review",
+      "source": {
+        "source": "github",
+        "repo": "mohamedabubasith/basivo-review"
+      },
+      "description": "Review a pull or merge request from your terminal: finds problems, verifies each one against the code, shows you the result, and posts inline comments only when you say so.",
+      "category": "code-review",
+      "homepage": "https://github.com/mohamedabubasith/basivo-review",
+      "keywords": [
+        "code-review",
+        "pull-request",
+        "merge-request",
+        "github",
+        "gitlab",
+        "agent"
       ]
     }
   ]
